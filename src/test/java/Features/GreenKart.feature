@@ -8,3 +8,15 @@ Feature: Validating common vegetables on both dashboard and offers page
   When user provide the veg table name in "tom" search field
   And click on the Topdeals link and provide the veg name "tom" in search field
   Then validating vegetables are availables on both dashboard and offers page
+  
+  
+  Then Balakrishna is on fire with chiranjeevi
+  
+  Then chiranjeevi is repied to balakrishna 
+  
+  
+    
+
+Then what is the use of this messages
+
+Then who is bloody balakrihna, chiranjeevi and Pavankalyan great.
